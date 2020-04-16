@@ -1,0 +1,107 @@
+.imga
+{
+	position: fixed;
+	width: 270px;
+	height: 270px;
+	top:6px;
+	right:6px;
+}
+.hi
+{
+	top:290px;
+	right:0px;
+	position:fixed;
+	height: 40px; width: 286px;
+	background-color: #555555;
+	border: none;
+	text-align: center;
+	color: white;
+	font-family: impact;
+}
+
+.right
+{
+	top:0px;
+	right:0px;
+	position:fixed;
+	height: 435px; width: 286px;
+	background-color: #555555;
+	border: none;
+}
+
+.news
+{
+	top:5px;
+	left:5px;
+	position: fixed;
+	background-color: #7F7F7F;
+	height:30px; width:242px;
+	border: none;
+	color:white;
+	font-family: impact;
+}
+.mess
+{
+	top:40px;
+	left:5px;
+	position: fixed;
+	background-color: #7F7F7F;
+	height:30px; width:242px;
+	border: none;
+	color:white;
+	font-family: impact;
+}
+.media
+{
+	top:75px;
+	left:5px;
+	position: fixed;
+	background-color: #7F7F7F;
+	height:30px; width:242px;
+	border: none;
+	color:white;
+	font-family: impact;
+}
+.forum
+{
+	top:110px;
+	left:5px;
+	position: fixed;
+	background-color: #7F7F7F;
+	height:30px; width:242px;
+	border: none;
+	color:white;
+	font-family: impact;
+}
+.friends
+{
+	top:145px;
+	left:5px;
+	position: fixed;
+	background-color: #7F7F7F;
+	height:30px; width:242px;
+	border: none;
+	color:white;
+	font-family: impact;
+}
+.groups
+{
+	top:180px;
+	left:5px;
+	position: fixed;
+	background-color: #7F7F7F;
+	height:30px; width:242px;
+	border: none;
+	color:white;
+	font-family: impact;
+}
+.left
+{
+	top:0px;
+	left:0px;
+	position: fixed;
+	background-color: #555555;
+	height:100%; width:252px;
+}
+
+
