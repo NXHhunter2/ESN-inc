@@ -2,9 +2,11 @@ body {
 	background-color: #808080;
 	font-family: Tahoma;
 	margin: 0;
+	color: white; 
 }
 h1 {
 	text-transform: uppercase;
+	color: white;
 }
 form{
 	margin: 0 auto;
@@ -23,7 +25,6 @@ input {
 	margin-top: 6px;
 	height: 40px;
 	width: 400px;
-	border-radius: 20px/20px;
 	border: none;
 	box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
 	font-size: 18px;
